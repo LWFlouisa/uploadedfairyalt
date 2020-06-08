@@ -2,9 +2,9 @@
 layout: default
 ---
 ## Social Media
-[Uploaded Fairy](https://twitter.com/FlouisaLw)
 
 ### Webcomic Twitter
+[Uploaded Fairy](https://twitter.com/FlouisaLw)
 
 ### Personal Social
 [Linktree](https://linktr.ee/sarahrweaver)
