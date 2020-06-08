@@ -3,7 +3,7 @@ layout: default
 ---
 # Uploaded Fairy
 
-[About](https://lwflouisa.github.io/uploadedfairyalt/about.html) [Concept Art](https://lwflouisa.github.io/uploadedfairyalt/conceptart.html) [Tunes]() [Social Media]()
+[About](https://lwflouisa.github.io/uploadedfairyalt/about.html) [Concept Art](https://lwflouisa.github.io/uploadedfairyalt/conceptart.html) [Tunes](https://lwflouisa.github.io/uploadedfairyalt/tunes.html) [Social Media]()
 
 ## Index
 
