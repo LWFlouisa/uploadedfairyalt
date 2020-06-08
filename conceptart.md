@@ -1,1 +1,3 @@
-placeholder
+---
+layout: default
+---
