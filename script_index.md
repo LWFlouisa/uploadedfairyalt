@@ -2,39 +2,43 @@
 layout: default
 ---
 ## Uploaded Fairy Script ( 1/3rd Of The Novella )
-[Page 01]()<br />
-[Page 02]()<br />
-[Page 03]()<br />
-[Page 04]()<br />
-[Page 05]()<br />
-[Page 06]()<br />
-[Page 07]()<br />
-[Page 08]()<br />
-[Page 09]()<br />
-[Page 10]()<br />
-[Page 11]()<br />
-[Page 12]()<br />
-[Page 13]()<br />
-[Page 14]()<br />
-[Page 15]()<br />
-[Page 16]()<br />
-[Page 17]()<br />
-[Page 18]()<br />
-[Page 19]()<br />
-[Page 20]()<br />
-[Page 21]()<br />
-[Page 22]()<br />
-[Page 23]()<br />
-[Page 24]()<br />
-[Page 25]()<br />
-[Page 26]()<br />
-[Page 27]()<br />
-[Page 28]()<br />
-[Page 29]()<br />
-[Page 30]()<br />
-[Page 31]()<br />
+
+### Part One
+[Page 01](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P1%20Export.pdf)<br />
+[Page 02](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P2%20Export.pdf)<br />
+[Page 03](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P3%20Export.pdf)<br />
+[Page 04](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P4.pdf)<br />
+[Page 05](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P5.pdf)<br />
+[Page 06](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P6%20Export.pdf)<br />
+[Page 07](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P7%20Export.pdf)<br />
+[Page 08](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P8%20Export.pdf)<br />
+[Page 09](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P9%20Export.pdf)<br />
+[Page 10](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P10%20Export.pdf)<br />
+[Page 11](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P11%20Export.pdf)<br />
+[Page 12](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P12%20Export.pdf)<br />
+[Page 13](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P13%20Export.pdf)<br />
+[Page 14](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P14%20Side%20Story%20Export.pdf)<br />
+[Page 15](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P15%20Export.pdf)<br />
+[Page 16](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P16%20Export.pdf)<br />
+[Page 17](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P17%20Export.pdf)<br />
+[Page 18](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P18%20Export.pdf)<br />
+[Page 19](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P19%20Export.pdf)<br />
+[Page 20](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P20%20Hemato%201%20Epilogue%20Export.pdf)<br />
+[Page 21](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_one/Uploaded%20Fairy%20P21%20Export.pdf)<br />
+
+### Part Two
+[Page 22](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Prologue%201%20Gone%20In%20A%20Flash%20Export.pdf)<br />
+[Page 23](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Prologue%202%20Locking%20Her%20Father%20Out%20Export.pdf)<br />
+[Page 24](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Uploaded%20Fairy%20P22.pdf)<br />
+[Page 25](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Uploaded%20Fairy%20P23.pdf)<br />
+[Page 26](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Uploaded%20Fairy%20P24%20Export.pdf)<br />
+[Page 27](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Uploaded%20Fairy%20P25.pdf)<br />
+[Page 28](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Uploaded%20Fairy%20P26.pdf)<br />
+[Page 29](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Uploaded%20Fairy%20P27.pdf)<br />
+[Page 30](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Uploaded%20Fairy%20P28.pdf)<br />
+[Page 31](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Uploaded%20Fairy%20P29.pdf)<br />
 
 ## Uploaded Fairy Novella
-[Novella]()
+[Novella](https://lwflouisa.github.io/uploadedfairyalt/comic_script/original_novel/)
 
 [Return To Index](https://lwflouisa.github.io/uploadfairyalt/)
