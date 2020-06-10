@@ -10,7 +10,7 @@ layout: default
 Cleaning The Guillotine Blade [Mon Jun  8 09:33:44 EDT 2020 Page One](https://lwflouisa.github.io/uploadedfairyalt/page_html/page1.html)<br />
 Next Morning's Beheading [Mon Jun  8 10:25:27 EDT 2020 Page Two](https://lwflouisa.github.io/uploadedfairyalt/page_html/page2.html)<br />
 Measurements Of A Shielded National Razor Gun [Mon Jun  8 18:37:48 EDT 2020 Page Three](https://lwflouisa.github.io/uploadedfairyalt/page_html/page3.html)<br />
-Classical Guillotine In Action [Tue Jun  9 21:11:59 EDT 2020 Page Four](https://lwflouisa.github.io/uploadedfairyalt/page_html/page3.html)
+Classical Guillotine In Action [Tue Jun  9 21:11:59 EDT 2020 Page Four](https://lwflouisa.github.io/uploadedfairyalt/page_html/page3.html)<br />
 My Name Is Hemato [Tue Jun  9 21:31:45 EDT 2020 Page Five](https://lwflouisa.github.io/uploadedfairyalt/page_html/page5.html)
 
 ## License
