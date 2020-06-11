@@ -11,7 +11,7 @@ layout: default
 [Front](http://boisdejustice.com/Berger1907A/Real1907Front.JPG)
 [Back](http://boisdejustice.com/Berger1907A/Real1907Back.JPG)
 
-### After 2019: As A Crossbow Implementation
+### Evolution During The French And Japanese Invasions
 
 This is the projectile device that the Berger Guillotine would eventually evolve into, its use expanded into military style executions during the wars between 2045-2085 A.D. It later becomes a mainstream self-defence weapon. being more ubiquitous than knives or guns, making them impossible to regulate.
 
