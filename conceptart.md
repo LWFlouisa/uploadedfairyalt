@@ -15,6 +15,6 @@ layout: default
 
 This is the projectile device that the Berger Guillotine would eventually evolve into, its use expanded into military style executions during the wars between 2045-2085 A.D. It later becomes a mainstream self-defence weapon. being more ubiquitous than knives or guns, making them impossible to regulate.
 
-![National Razor Gun](https:lwflouisa.github.io/uploadedfairyalt/conceptart/guillotinegun.jpg)
+![National Razor Gun](https://raw.githubusercontent.com/LWFlouisa/uploadedfairyalt/master/conceptart/guillotinegun.jpg)
 
 [Return To Index](https://lwflouisa.github.io/uploadedfairyalt/)
