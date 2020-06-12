@@ -3,7 +3,7 @@ layout: default
 ---
 # Game As Nightmare
 
-[About](https://lwflouisa.github.io/uploadedfairyalt/about.html) [Concept Art](https://lwflouisa.github.io/uploadedfairyalt/conceptart.html) [Tunes](https://lwflouisa.github.io/uploadedfairyalt/tunes.html) [Script](https://lwflouisa.github.io/uploadedfairyalt/script_index.html) [Writing](https://www.pixiv.net/en/users/22919066) [Graphic Poetry](https://lwflouisa.github.io/uploadedfairyalt/gr_poetry.html) [Essays](https://lwflouisa.github.io/uploadedfairyalt/essays.md) [Conlang](https://personaljournal.ca/hafestra-conlang/) [Social Media](https://lwflouisa.github.io/uploadedfairyalt/social.html)
+[About](https://lwflouisa.github.io/uploadedfairyalt/about.html) [Concept Art](https://lwflouisa.github.io/uploadedfairyalt/conceptart.html) [Tunes](https://lwflouisa.github.io/uploadedfairyalt/tunes.html) [Script](https://lwflouisa.github.io/uploadedfairyalt/script_index.html) [Writing](https://www.pixiv.net/en/users/22919066) [Graphic Poetry](https://lwflouisa.github.io/uploadedfairyalt/gr_poetry.html) [Essays](https://lwflouisa.github.io/uploadedfairyalt/essays.html) [Conlang](https://personaljournal.ca/hafestra-conlang/) [Social Media](https://lwflouisa.github.io/uploadedfairyalt/social.html)
 
 ## Index
 
@@ -18,7 +18,7 @@ Je Sang Fait [Wed Jun 10 00:38:24 EDT 2020 Page Six](https://lwflouisa.github.io
 Down The Road From Purgatory [Wed Jun 10 19:20:32 EDT 2020 Page Seven](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page7.html)<br />
 Immigrant Blues [Wed Jun 10 19:32:49 EDT 2020 Page Eight](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page8.html)<br />
 Immigration Papers [Wed Jun 10 19:34:29 EDT 2020 Page Nine](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page8.html)<br />
-Ehena, Please Reconsider [Wed Jun 10 20:18:07 EDT 2020 Page Ten](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page10.html)
+Ehena, Please Reconsider [Wed Jun 10 20:18:07 EDT 2020 Page Ten](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page10.html)<br />
 Secrets Of Her Own [Thu Jun 11 23:04:11 EDT 2020 Page Eleven](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page11.html)
 
 ## License
