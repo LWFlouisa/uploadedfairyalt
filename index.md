@@ -19,7 +19,8 @@ Down The Road From Purgatory [Wed Jun 10 19:20:32 EDT 2020 Page Seven](https://l
 Immigrant Blues [Wed Jun 10 19:32:49 EDT 2020 Page Eight](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page8.html)<br />
 Immigration Papers [Wed Jun 10 19:34:29 EDT 2020 Page Nine](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page8.html)<br />
 Ehena, Please Reconsider [Wed Jun 10 20:18:07 EDT 2020 Page Ten](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page10.html)<br />
-Secrets Of Her Own [Thu Jun 11 23:04:11 EDT 2020 Page Eleven](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page11.html)
+Secrets Of Her Own [Thu Jun 11 23:04:11 EDT 2020 Page Eleven](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page11.html)<br />
+It Was The Year 1836. ![Thu Jun 11 23:15:06 EDT 2020 Page Twelve](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page12.html)
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
