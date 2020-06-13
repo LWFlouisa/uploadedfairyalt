@@ -13,3 +13,5 @@ It should also be noted that sometimes using to many tones can often be to much 
 In some cases, having panels that only have two levels of shading is appropriate for the context, such as in caricatures. However in a realistic sketch, generally the levels of shade you need is based on the direction of the light source, with different areas having more color variation than others. Generally the closer to a light source, the less shade variation.
 
 In conclusion, this is why I personally prefer knowledge in as many art mediums as possible, so I can fully explore their strengths and weaknesses. I want to have experience in both traditional art media and digital media, so that I can improvise when the need arises.
+
+[Return To Index](https://lwflouisa.github.io/uploadedfairyalt/)
