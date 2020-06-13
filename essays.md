@@ -6,6 +6,8 @@ layout: default
 These will be a collection of essays exploring the various topics explored in Uploaded Fairy.
 
 ## Essay Index
-[Audience By Algorithm](https://lwflouisa.github.io/uploadedfairyalt/essays/audiencebyalgorithm.html)
+[Audience By Algorithm](https://lwflouisa.github.io/uploadedfairyalt/essays/audiencebyalgorithm.html)<br />
+[Learning To Draw In Various Mediums](https;//lwflouisa.github.io/uploadedfairyalt/essays/learninginvariousartmediums.html)<br />
+[Underground Comics 2 Point 0]()
 
 [Return To Index](https://lwflouisa.github.io/uploadedfairyalt/)
