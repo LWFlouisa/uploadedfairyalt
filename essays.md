@@ -10,6 +10,9 @@ These will be a collection of essays exploring the various topics explored in Up
 [Learning To Draw In Various Mediums](https;//lwflouisa.github.io/uploadedfairyalt/essays/learninginvariousartmediums.html)<br />
 [Underground Comics 2 Point 0](https://lwflouisa.github.io/uploadedfairyalt/essays/undergroundcomics2p0.html)<br />
 
+## Flash Fiction
+[The Hacker Marionette](https://lwflouisa.github.io/uploadedfairyalt/essays/thehackermarionette.html)<br />
+
 ## Graphic Essay Script
 [Learning To Draw In Various Mediums](https://lwflouisa.github.io/uploadedfairyalt/essays/graphicessayscript/learninginvariousartmediumsScript.html)
 
