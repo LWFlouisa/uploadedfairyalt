@@ -22,4 +22,4 @@ NADINE slowly got out of bed.
 
 	NADINE: What good are groceries, if my head’s going to explode?
 
-
+[Return To Index](https://lwflouisa.github.io/uploadedfairyalt/script_index.html)
