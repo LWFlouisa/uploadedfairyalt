@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## PAGE 31
+## UPLOADED FAIRY PAGE 31
 Nadine imagined herself dropped in from a CIA black helicoptor, with her aiming her handgun toward the finish line--the back of the head of the person she was living with in this apartment, as they stood on top of the sky scraper. Suddenly, Nadine was brought back into reality:
 
 	BLANCI: Why do you look at me like that?
