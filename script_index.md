@@ -40,8 +40,8 @@ layout: default
 
 Author note: All script pages after this point are down as webpages and not PDF.
 
-[Page 11](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/uploadedfairy_page30.html)
-[Page 12](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/uploadedfairy_page31.html)
+[Page 11](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/uploadedfairy_page30.html)<br />
+[Page 12](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/uploadedfairy_page31.html)<br />
 
 ## Uploaded Fairy Novella
 [Novella](https://lwflouisa.github.io/uploadedfairyalt/comic_script/original_novel/)
