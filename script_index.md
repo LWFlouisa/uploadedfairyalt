@@ -37,6 +37,9 @@ layout: default
 [Page 08](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Uploaded%20Fairy%20P27.pdf)<br />
 [Page 09](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Uploaded%20Fairy%20P28.pdf)<br />
 [Page 10](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/Uploaded%20Fairy%20P29.pdf)<br />
+
+Author note: All script pages after this point are down as webpages and not PDF.
+
 [Page 11](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/uploadedfairy_page30.html)
 [Page 12](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/uploadedfairy_page31.html)
 
