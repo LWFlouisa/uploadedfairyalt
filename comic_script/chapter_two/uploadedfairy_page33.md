@@ -17,3 +17,5 @@ She visits the her stepfather in his office:
 
 BLANCI: You called for me father.<br />
 STEPFATHER: The tea this evening, it is cold.
+
+[Return To Index](https://lwflouisa.github.io/uploadedfairyalt/script_index.html)
