@@ -7,6 +7,9 @@ layout: default
 
 ## Index
 
+### Syndication Link
+[RSS](https://lwflouisa.github.io/uploadedfairySynd/atom.xml)
+
 ### CHAPTER ONE
 
 Cleaning The Guillotine Blade [Mon Jun  8 09:33:44 EDT 2020 Page One](https://lwflouisa.github.io/uploadedfairyalt/page_html/chapterone/page1.html)<br />
