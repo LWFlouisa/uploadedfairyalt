@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## UPLOADED FAIRY PAGE THIRTY FOUR 
+## UPLOADED FAIRY PAGE 34
 Nadine is in a scrapyard in the city, searching for robotic dog parts. In a part of her mind, the memory of the robotic dog that she had wanted to build was still on her mind.
 Then she heard the familiar barking of a dog, but could not initially find where it was coming from.
 
