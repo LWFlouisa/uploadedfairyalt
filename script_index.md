@@ -42,6 +42,9 @@ Author note: All script pages after this point are down as webpages and not PDF.
 
 [Page 11](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/uploadedfairy_page30.html)<br />
 [Page 12](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/uploadedfairy_page31.html)<br />
+[Page 13](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/uploadedfairy_page32.html)<br />
+[Page 14](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/uploadedfairy_page33.html)<br />
+[Page 15](https://lwflouisa.github.io/uploadedfairyalt/comic_script/chapter_two/uploadedfairy_page34.html)<br />
 
 ## Uploaded Fairy Novella
 [Novella](https://lwflouisa.github.io/uploadedfairyalt/comic_script/original_novel/)
