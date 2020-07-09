@@ -3,7 +3,7 @@ layout: default
 ---
 # Game As Nightmare
 
-![]()
+![image](https://lwflouisa.github.io/uploadedfairyalt/pages/coverart/cover4.jpg)
 
 [About](https://lwflouisa.github.io/uploadedfairyalt/about.html) [Concept Art](https://lwflouisa.github.io/uploadedfairyalt/conceptart.html) [Tunes](https://lwflouisa.github.io/uploadedfairyalt/tunes.html) [Script](https://lwflouisa.github.io/uploadedfairyalt/script_index.html) [Writing](https://www.pixiv.net/en/users/22919066) [Graphic Poetry](https://lwflouisa.github.io/uploadedfairyalt/gr_poetry.html) [Essays](https://lwflouisa.github.io/uploadedfairyalt/essays.html) [Conlang](https://personaljournal.ca/hafestra-conlang/) [Social Media](https://lwflouisa.github.io/uploadedfairyalt/social.html)
 
